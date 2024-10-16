@@ -24,7 +24,7 @@ int main(int argc, char *argv[]) {
     // Calculate the average of all args
     float average = sum / 10;
 
-    printf("Average: %.2f\n", average);
+    printf("Avg: %.2f\n", average);
 
     return 0;
 }
